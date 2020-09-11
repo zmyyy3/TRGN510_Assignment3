@@ -1,1 +1,1 @@
-# TRGN510_Assignment3
+# TRGN510_Assignment3For the gtf2json.py, you could download Homo_sapiens.GRCh37.75.gtf.gz from http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens. 
